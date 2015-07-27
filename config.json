@@ -2,12 +2,14 @@
 	"region": "aws-region",
 	"aws_access_key_id": "XXXXXXXXXXXXXXXXXXXX",
 	"aws_secret_access_key": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-	"instance_state": "stopped",	
+	"instance_state": "stopped",
+        "availability-zone": "xx-xxxx-xx",	
 	"instance_id": "i-xxxxxxxx",
 	"attach_point": "/dev/sdf",	
 	"vault_name": "vault-name",
 	"part_size": "134217728",
 	"num_threads": "4",
-	"csv_filename": "movevoltogal.csv"	
+	"csv_filename": "movevoltogal.csv",
+        "log_filename": "movevoltogal.log"
 }
 
